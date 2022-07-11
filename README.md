@@ -24,7 +24,7 @@ This project is created to sharpen the knowledge of DOM Manupulation along with 
 * Shows the prices include tax and shipping
 
 ## How to use
-Click on this ![link](https://i-bilge.github.io/Online-Shop-Checkout-Page/)
+Click on this [link](https://i-bilge.github.io/Online-Shop-Checkout-Page/)
 
 
 
