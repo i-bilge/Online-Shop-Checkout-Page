@@ -11,7 +11,7 @@
   - [Contact](#contact)
 
 ## General info
-This project is created to sharpen the knowledge of DOM MAnupulation along with event listeners. It is a Project of The Clarusway IT School - Fullstack Developer Path.
+This project is created to sharpen the knowledge of DOM Manupulation along with event listeners. It is a Project of The Clarusway IT School - Fullstack Developer Path.
 
 ## Technologies
 * HTML
